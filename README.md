@@ -145,5 +145,5 @@ Publish the website in the given URL.
 ![](/exp%208.png)
 
 ## Result : 
-Thus the program execuited successfully
+Thus the program executed successfully
 
